@@ -1,317 +1,82 @@
 {
   "page_urls": [
-    { "text": "", "link": "https://hackersandslackers.com/" },
-    { "text": "About", "link": "https://hackersandslackers.com/about/" },
-    { "text": "Series", "link": "https://hackersandslackers.com/series/" },
-    { "text": "Join", "link": "https://hackersandslackers.com/join-us/" },
-    { "text": "Search", "link": "https://hackersandslackers.com/search/" },
+    { "text": "Images", "link": "https://www.google.co.in/imghp?hl=en&tab=wi" },
+    { "text": "Maps", "link": "https://maps.google.co.in/maps?hl=en&tab=wl" },
+    { "text": "Play", "link": "https://play.google.com/?hl=en&tab=w8" },
+    { "text": "YouTube", "link": "https://www.youtube.com/?gl=IN&tab=w1" },
+    { "text": "News", "link": "https://news.google.com/?tab=wn" },
+    { "text": "Gmail", "link": "https://mail.google.com/mail/?tab=wm" },
+    { "text": "Drive", "link": "https://drive.google.com/?tab=wo" },
     {
-      "text": "Donate",
-      "link": "https://www.buymeacoffee.com/hackersslackers"
+      "text": "More \u00bb",
+      "link": "https://www.google.co.in/intl/en/about/products?tab=wh"
     },
-    { "text": "Home", "link": "https://hackersandslackers.com/" },
-    { "text": "About", "link": "https://hackersandslackers.com/about/" },
-    { "text": "Search", "link": "https://hackersandslackers.com/search/" },
-    { "text": "Python", "link": "https://hackersandslackers.com/tag/python" },
     {
-      "text": "Software Development",
-      "link": "https://hackersandslackers.com/tag/software-development"
+      "text": "Web History",
+      "link": "http://www.google.co.in/history/optout?hl=en"
     },
-    { "text": "DevOps", "link": "https://hackersandslackers.com/tag/devops" },
+    { "text": "Settings", "link": "https://google.com/preferences?hl=en" },
     {
-      "text": "Data Engineering",
-      "link": "https://hackersandslackers.com/tag/dataengineering"
+      "text": "Sign in",
+      "link": "https://accounts.google.com/ServiceLogin?hl=en&passive=true&continue=https://www.google.com/%3FAccess-Control-Allow-Origin%3D%252A%26Access-Control-Allow-Methods%3DGET%26Access-Control-Allow-Headers%3DContent-Type%26Access-Control-Max-Age%3D3600%26User-Agent%3DMozilla%252F5.0%2B%2528X11%253B%2BUbuntu%253B%2BLinux%2Bx86_64%253B%2Brv%253A52.0%2529%2BGecko%252F20100101%2BFirefox%252F52.0&ec=GAZAAQ"
     },
     {
-      "text": "Architecture",
-      "link": "https://hackersandslackers.com/tag/architecture"
+      "text": "Advanced search",
+      "link": "https://google.com/advanced_search?hl=en-IN&authuser=0"
     },
-    { "text": "Pandas", "link": "https://hackersandslackers.com/tag/pandas" },
     {
-      "text": "Data Analysis",
-      "link": "https://hackersandslackers.com/tag/data-analysis"
+      "text": "\u0939\u093f\u0928\u094d\u0926\u0940",
+      "link": "https://www.google.com/setprefs?sig=0_RW3FvBLg-keFebvmvDimtaYqJ-c%3D&hl=hi&source=homepage&sa=X&ved=0ahUKEwjdgd_uu9DtAhUVXisKHQ2QDlAQ2ZgBCAU"
     },
     {
-      "text": "Data Science",
-      "link": "https://hackersandslackers.com/tag/datascience"
+      "text": "\u09ac\u09be\u0982\u09b2\u09be",
+      "link": "https://www.google.com/setprefs?sig=0_RW3FvBLg-keFebvmvDimtaYqJ-c%3D&hl=bn&source=homepage&sa=X&ved=0ahUKEwjdgd_uu9DtAhUVXisKHQ2QDlAQ2ZgBCAY"
     },
     {
-      "text": "REST APIs",
-      "link": "https://hackersandslackers.com/tag/restapis"
+      "text": "\u0c24\u0c46\u0c32\u0c41\u0c17\u0c41",
+      "link": "https://www.google.com/setprefs?sig=0_RW3FvBLg-keFebvmvDimtaYqJ-c%3D&hl=te&source=homepage&sa=X&ved=0ahUKEwjdgd_uu9DtAhUVXisKHQ2QDlAQ2ZgBCAc"
     },
     {
-      "text": "Code Snippet Corner",
-      "link": "https://hackersandslackers.com/tag/codesnippetcorner"
+      "text": "\u092e\u0930\u093e\u0920\u0940",
+      "link": "https://www.google.com/setprefs?sig=0_RW3FvBLg-keFebvmvDimtaYqJ-c%3D&hl=mr&source=homepage&sa=X&ved=0ahUKEwjdgd_uu9DtAhUVXisKHQ2QDlAQ2ZgBCAg"
     },
-    { "text": "Flask", "link": "https://hackersandslackers.com/tag/flask" },
     {
-      "text": "JavaScript",
-      "link": "https://hackersandslackers.com/tag/javascript"
+      "text": "\u0ba4\u0bae\u0bbf\u0bb4\u0bcd",
+      "link": "https://www.google.com/setprefs?sig=0_RW3FvBLg-keFebvmvDimtaYqJ-c%3D&hl=ta&source=homepage&sa=X&ved=0ahUKEwjdgd_uu9DtAhUVXisKHQ2QDlAQ2ZgBCAk"
     },
-    { "text": "SQL", "link": "https://hackersandslackers.com/tag/sql" },
     {
-      "text": "Amazon Web Services",
-      "link": "https://hackersandslackers.com/tag/aws"
+      "text": "\u0a97\u0ac1\u0a9c\u0ab0\u0abe\u0aa4\u0ac0",
+      "link": "https://www.google.com/setprefs?sig=0_RW3FvBLg-keFebvmvDimtaYqJ-c%3D&hl=gu&source=homepage&sa=X&ved=0ahUKEwjdgd_uu9DtAhUVXisKHQ2QDlAQ2ZgBCAo"
     },
-    { "text": "NodeJS", "link": "https://hackersandslackers.com/tag/nodejs" },
     {
-      "text": "Build Flask Apps",
-      "link": "https://hackersandslackers.com/series/build-flask-apps"
+      "text": "\u0c95\u0ca8\u0ccd\u0ca8\u0ca1",
+      "link": "https://www.google.com/setprefs?sig=0_RW3FvBLg-keFebvmvDimtaYqJ-c%3D&hl=kn&source=homepage&sa=X&ved=0ahUKEwjdgd_uu9DtAhUVXisKHQ2QDlAQ2ZgBCAs"
     },
     {
-      "text": "Data Analysis with Pandas",
-      "link": "https://hackersandslackers.com/series/data-analysis-pandas"
+      "text": "\u0d2e\u0d32\u0d2f\u0d3e\u0d33\u0d02",
+      "link": "https://www.google.com/setprefs?sig=0_RW3FvBLg-keFebvmvDimtaYqJ-c%3D&hl=ml&source=homepage&sa=X&ved=0ahUKEwjdgd_uu9DtAhUVXisKHQ2QDlAQ2ZgBCAw"
     },
     {
-      "text": "Google Cloud Platform Architecture",
-      "link": "https://hackersandslackers.com/series/the-rise-of-google-cloud"
+      "text": "\u0a2a\u0a70\u0a1c\u0a3e\u0a2c\u0a40",
+      "link": "https://www.google.com/setprefs?sig=0_RW3FvBLg-keFebvmvDimtaYqJ-c%3D&hl=pa&source=homepage&sa=X&ved=0ahUKEwjdgd_uu9DtAhUVXisKHQ2QDlAQ2ZgBCA0"
     },
     {
-      "text": "Learning Apache Spark",
-      "link": "https://hackersandslackers.com/series/learning-apache-spark"
+      "text": "Advertising\u00a0Programs",
+      "link": "https://google.com/intl/en/ads/"
     },
     {
-      "text": "Create a REST API in AWS",
-      "link": "https://hackersandslackers.com/series/create-an-aws-api"
+      "text": "Business Solutions",
+      "link": "http://www.google.co.in/services/"
     },
+    { "text": "About Google", "link": "https://google.com/intl/en/about.html" },
     {
-      "text": "Working with MySQL",
-      "link": "https://hackersandslackers.com/series/working-with-mysql"
+      "text": "Google.co.in",
+      "link": "https://www.google.com/setprefdomain?prefdom=IN&prev=https://www.google.co.in/&sig=K_nO8Vi0H-LgrmqEgCGA81NbBsc-E%3D"
     },
     {
-      "text": "GraphQL Tutorials",
-      "link": "https://hackersandslackers.com/series/graphql-hype"
+      "text": "Privacy",
+      "link": "https://google.com/intl/en/policies/privacy/"
     },
-    {
-      "text": "Hacking Tableau Server",
-      "link": "https://hackersandslackers.com/series/hacking-tableau-server"
-    },
-    {
-      "text": "MongoDB Atlas Cloud Architecture",
-      "link": "https://hackersandslackers.com/series/mongodb-cloud"
-    },
-    {
-      "text": "Welcome to SQL: Tutorials for Newcomers",
-      "link": "https://hackersandslackers.com/series/welcome-to-sql"
-    },
-    {
-      "text": "Mapping Data with Mapbox",
-      "link": "https://hackersandslackers.com/series/mapping-data-with-mapbox"
-    },
-    {
-      "text": "Mastering Python's SQLAlchemy",
-      "link": "https://hackersandslackers.com/series/mastering-sqlalchemy"
-    },
-    {
-      "text": "Microsoft PowerPivot",
-      "link": "https://hackersandslackers.com/series/microsoft-powerpivot"
-    },
-    {
-      "text": "Getting Started with Django",
-      "link": "https://hackersandslackers.com/series/starting-django"
-    },
-    {
-      "text": "Web Scraping With Python",
-      "link": "https://hackersandslackers.com/series/web-scraping-with-python"
-    },
-    {
-      "text": "Todd Birchard",
-      "link": "https://hackersandslackers.com/author/todd"
-    },
-    {
-      "text": "Max Mileaf",
-      "link": "https://hackersandslackers.com/author/snacks"
-    },
-    {
-      "text": "Graham Beckley",
-      "link": "https://hackersandslackers.com/author/graham"
-    },
-    {
-      "text": "David Aquino",
-      "link": "https://hackersandslackers.com/author/david"
-    },
-    {
-      "text": "Matthew Alhonte",
-      "link": "https://hackersandslackers.com/author/matt"
-    },
-    {
-      "text": "Ryan Rosado",
-      "link": "https://hackersandslackers.com/author/xodz"
-    },
-    {
-      "text": "Paul Armstrong",
-      "link": "https://hackersandslackers.com/author/paul"
-    },
-    {
-      "text": "Dylan Castillo",
-      "link": "https://hackersandslackers.com/author/dylan"
-    },
-    { "text": "Join", "link": "https://hackersandslackers.com/join-us/" },
-    { "text": "RSS", "link": "https://hackersandslackers.com/rss.xml" },
-    {
-      "text": " Donate",
-      "link": "https://www.buymeacoffee.com/hackersslackers"
-    },
-    { "text": "Todd", "link": "https://hackersandslackers.com/author/todd/" },
-    { "text": "Python", "link": "https://hackersandslackers.com/tag/python" },
-    {
-      "text": "Scrape Structured Data with Python and Extruct",
-      "link": "https://hackersandslackers.com/scrape-metadata-json-ld"
-    },
-    {
-      "text": "Scraping Data on the Web with BeautifulSoup",
-      "link": "https://hackersandslackers.com/scraping-urls-with-beautifulsoup"
-    },
-    { "text": "Kaggle", "link": "https://www.kaggle.com/" },
-    {
-      "text": "Google Cloud",
-      "link": "https://console.cloud.google.com/bigquery"
-    },
-    { "text": "federal government", "link": "https://www.data.gov/" },
-    {
-      "text": "LinkedIn",
-      "link": "https://techcrunch.com/2018/11/24/linkedin-ireland-data-protection/"
-    },
-    {
-      "text": "bought and sold by data brokers",
-      "link": "https://securityboulevard.com/2018/06/data-brokers-you-are-being-packaged-and-sold/"
-    },
-    {
-      "text": "attempted to sue individual programmers",
-      "link": "https://techcrunch.com/2016/08/15/linkedin-sues-scrapers/"
-    },
-    {
-      "text": "LinkedIn Data Scraping Ruled LegalA court has ruled that it\u2019s legal to scrape publicly available data from LinkedIn, despite the company\u2019s claims that this violates user privacy.Emma WoollacottForbes",
-      "link": "https://www.forbes.com/sites/emmawoollacott/2019/09/10/linkedin-data-scraping-ruled-legal/#5c3c0b8f1b54"
-    },
-    {
-      "text": "BeautifulSoup",
-      "link": "https://www.crummy.com/software/BeautifulSoup/bs4/doc/"
-    },
-    { "text": "Scrapy", "link": "https://scrapy.org/" },
-    { "text": "Selenium", "link": "https://selenium-python.readthedocs.io/" },
-    { "text": "http://example.com", "link": "http://example.com" },
-    {
-      "text": "hackersandslackers/beautifulsoup-tutorial:sparkles: :ramen: Scrape webpage metadata using BeautifulSoup. - hackersandslackers/beautifulsoup-tutorialhackersandslackersGitHub",
-      "link": "https://github.com/hackersandslackers/beautifulsoup-tutorial"
-    },
-    { "text": "Python", "link": "https://hackersandslackers.com/tag/python" },
-    {
-      "text": "Data Engineering",
-      "link": "https://hackersandslackers.com/tag/dataengineering"
-    },
-    {
-      "text": "Scraping",
-      "link": "https://hackersandslackers.com/tag/scraping"
-    },
-    {
-      "text": "Todd Birchard",
-      "link": "https://hackersandslackers.com/author/todd/"
-    },
-    { "text": "Site", "link": "https://toddbirchard.com" },
-    { "text": "Github", "link": "https://github.com/toddbirchard" },
-    { "text": "Twitter", "link": "https://twitter.com/ToddRBirchard" },
-    {
-      "text": "Scrape Structured Data with Python and ExtructPython, Scraping",
-      "link": "https://hackersandslackers.com/scrape-metadata-json-ld/"
-    },
-    {
-      "text": "Package Python Projects the Proper Way with PoetryPython, Software Development",
-      "link": "https://hackersandslackers.com/python-poetry-package-manager/"
-    },
-    {
-      "text": "SSH & SCP in Python with ParamikoPython, Automation",
-      "link": "https://hackersandslackers.com/automate-ssh-scp-python-paramiko/"
-    },
-    {
-      "text": "Buy me a coffee",
-      "link": "https://buymeacoff.ee/hackersslackers"
-    },
-    { "text": "", "link": "https://hackersandslackers.com/" },
-    { "text": "About", "link": "https://hackersandslackers.com/about/" },
-    { "text": "Series", "link": "https://hackersandslackers.com/series/" },
-    { "text": "Join", "link": "https://hackersandslackers.com/join-us/" },
-    { "text": "Search", "link": "https://hackersandslackers.com/search/" },
-    {
-      "text": "Donate",
-      "link": "https://www.buymeacoffee.com/hackersslackers"
-    },
-    { "text": "Sign up", "link": null },
-    {
-      "text": "Build Flask Apps",
-      "link": "https://hackersandslackers.com/series/build-flask-apps"
-    },
-    {
-      "text": "Data Analysis with Pandas",
-      "link": "https://hackersandslackers.com/series/data-analysis-pandas"
-    },
-    {
-      "text": "Learning Apache Spark",
-      "link": "https://hackersandslackers.com/series/learning-apache-spark"
-    },
-    {
-      "text": "Working with MySQL",
-      "link": "https://hackersandslackers.com/series/working-with-mysql"
-    },
-    {
-      "text": "Embracing GraphQL",
-      "link": "https://hackersandslackers.com/series/graphql-hype"
-    },
-    {
-      "text": "Welcome to SQL",
-      "link": "https://hackersandslackers.com/series/welcome-to-sql"
-    },
-    {
-      "text": "Mapping Data with Mapbox",
-      "link": "https://hackersandslackers.com/series/mapping-data-with-mapbox"
-    },
-    {
-      "text": "Mastering SQLAlchemy",
-      "link": "https://hackersandslackers.com/series/mastering-sqlalchemy"
-    },
-    {
-      "text": "Todd Birchard",
-      "link": "https://hackersandslackers.com/author/todd"
-    },
-    {
-      "text": "Max Mileaf",
-      "link": "https://hackersandslackers.com/author/snacks"
-    },
-    {
-      "text": "Graham Beckley",
-      "link": "https://hackersandslackers.com/author/graham"
-    },
-    {
-      "text": "David Aquino",
-      "link": "https://hackersandslackers.com/author/david"
-    },
-    {
-      "text": "Matthew Alhonte",
-      "link": "https://hackersandslackers.com/author/matt"
-    },
-    {
-      "text": "Ryan Rosado",
-      "link": "https://hackersandslackers.com/author/xodz"
-    },
-    {
-      "text": "Paul Armstrong",
-      "link": "https://hackersandslackers.com/author/paul"
-    },
-    {
-      "text": "Dylan Castillo",
-      "link": "https://hackersandslackers.com/author/dylan"
-    },
-    { "text": "", "link": "https://twitter.com/hackersslackers" },
-    { "text": "", "link": "https://hackingandslacking.com" },
-    {
-      "text": "",
-      "link": "https://www.linkedin.com/company/hackers-and-slackers/"
-    },
-    { "text": "", "link": "https://github.com/hackersandslackers" },
-    { "text": "", "link": "https://facebook.com/groups/hackersnslackers" },
-    {
-      "text": "",
-      "link": "https://feedly.com/i/subscription/feed/https://hackersandslackers.com/rss.xml"
-    }
+    { "text": "Terms", "link": "https://google.com/intl/en/policies/terms/" }
   ]
 }

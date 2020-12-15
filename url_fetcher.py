@@ -1,5 +1,6 @@
 # problem statement
 # take a url and get all the urls in that page along with link keywords and save it in csv file
+# improve it to fetch image links and social media account links
 
 import requests
 import re
@@ -44,11 +45,19 @@ def get_website_url(url):
     return result.group()
 
 
-def fetch_url_csv(main_page_url):
+def fetch_url(main_url, fileType):
     req = requests.get(main_page_url, headers)
     soup = BeautifulSoup(req.content, 'html.parser')
     page_urls = soup.find_all("a")
-    # adding dict to convert into json
+    if fileType == "csv":
+        fetch_url_csv(page_urls)
+    elif fileType == "json":
+        fetch_url_json(page_urls)
+    else:
+        print("Invalid fileType")
+
+
+def fetch_url_csv(page_urls):
     with open('page_links.csv', 'w') as f:
         writer = csv.writer(f)
         writer.writerow(["text", "link"])
@@ -63,11 +72,7 @@ def fetch_url_csv(main_page_url):
     f.close()
 
 
-def fetch_url_json(main_page_url):
-    req = requests.get(main_page_url, headers)
-    soup = BeautifulSoup(req.content, 'html.parser')
-    page_urls = soup.find_all("a")
-    # adding dict to convert into json
+def fetch_url_json(page_urls):
     data = {}
     data['page_urls'] = []
     for url in page_urls:
@@ -87,7 +92,12 @@ def fetch_url_json(main_page_url):
     f.close()
 
 
+def fetch_images():
+    pass
+
+
 if __name__ == '__main__':
     main_page_url = input()
+    fileType = input("Enter FileType: ")
     if (main_page_url):
-        fetch_url_csv(main_page_url)
+        fetch_url(main_page_url, fileType)
